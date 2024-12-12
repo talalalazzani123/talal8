@@ -1,0 +1,13 @@
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثامنة\المحاضرة الثامنة\bin\Debug\المحاضرة الثامنة.exe.config
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثامنة\المحاضرة الثامنة\bin\Debug\المحاضرة الثامنة.exe
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثامنة\المحاضرة الثامنة\bin\Debug\المحاضرة الثامنة.pdb
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثامنة\المحاضرة الثامنة\obj\Debug\المحاضرة الثامنة.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثامنة\المحاضرة الثامنة\obj\Debug\المحاضرة الثامنة.csproj.SuggestedBindingRedirects.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثامنة\المحاضرة الثامنة\obj\Debug\المحاضرة_الثامنة.Form1.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثامنة\المحاضرة الثامنة\obj\Debug\المحاضرة_الثامنة.Form2.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثامنة\المحاضرة الثامنة\obj\Debug\المحاضرة_الثامنة.Properties.Resources.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثامنة\المحاضرة الثامنة\obj\Debug\المحاضرة الثامنة.csproj.GenerateResource.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثامنة\المحاضرة الثامنة\obj\Debug\المحاضرة الثامنة.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثامنة\المحاضرة الثامنة\obj\Debug\المحاضرة الثامنة.exe
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثامنة\المحاضرة الثامنة\obj\Debug\المحاضرة الثامنة.pdb
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثامنة\المحاضرة الثامنة\obj\Debug\المحاضرة_الثامنة.Form3.resources
